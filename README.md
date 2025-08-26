@@ -24,6 +24,30 @@ Data & API
 
 Supports real API (goldapi.io) or mock API
 Data normalized into a consistent format
+
+⚙️ Setup & Run
+
+Clone the repo
+
+git clone https://github.com/your-username/metal-prices-rn-web.git
+cd metal-prices-rn-web
+
+
+Install dependencies
+
+npm install
+
+or
+
+yarn install
+Start the app
+npx expo star
+
+Run on device / emulator
+
+For Web: Press w in Expo CLI
+For Android: Press a
+For iOS (Mac only): Press i
 Prices shown in USD (easy to switch to INR)
 
 User Experience
